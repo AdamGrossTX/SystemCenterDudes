@@ -11,6 +11,8 @@
         Twitter: @AdamGrossTX
 
         Website: https://www.asquaredozen.com
+        
+        NOTE - The script only handles Device collections. It should be modified for User collections if you need it. May update it at some point.
 
     .LINK
         Originally posted on http://www.SystemCenterDudes.com
